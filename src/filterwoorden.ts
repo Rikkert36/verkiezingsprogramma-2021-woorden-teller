@@ -8,4 +8,5 @@ export var filterwoorden = new Set(['de', 'een', 'van', 'een', 'het', 'in', 'voo
 'land', 'maart', 'onder', 'tussen', 'iedereen', 'goed', 'doen', 'piratenpartij', 'programma', 'overheid', 'kamerverkiezingen', 'waarbij', 'wel',
 'komende','dient', 'staat', 'zodat', 'grote', 'laat', 'jaar', 'jaren', 'alleen', 'zaken', 'dus', 'nodig', 'mogelijk',
 'goede', 'v', 'e', 'via', 'lees', 'daarbij','binnen', 'waarin', 'politieke','hoe','vaak', 'nu', 'plaats', 'na', 'telt',
-'wwwstemvoltnlverkiezingsprogramma', 'procent', 'voortaan','nu', 'voorkomen']);
+'wwwstemvoltnlverkiezingsprogramma', 'procent', 'voortaan','nu', 'voorkomen', 'zien', 'geven', '\%', 'daar', 'want', 'zal', 'laten', 'vanuit',
+'af', 'blijft']);
