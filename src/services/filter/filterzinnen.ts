@@ -16,4 +16,4 @@ export var filterzinnen = new Array('partij voor de dieren', 'De kracht van PLUS
 'Verkiezingsprogramma 2021 -2025 - Migratie en Integratie', 'Verkiezingsprogramma 2021 -2025 - Justitie en Veiligheid', 
 'Verkiezingsprogramma 2021 -2025 - Klimaat en Duurzaamheid', 'Verkiezingsprogramma 2021 -2025 - Wonen en Vervoer',
 'Verkiezingsprogramma 2021 -2025 - Landbouw en Natuur', 'Verkiezingsprogramma 2021 -2025 - Overheid en Democratie',
-'Partij voor de Dieren', 'KIEZEN  VOOR WAT ECHT TELT');
+'Partij voor de Dieren', 'KIEZEN  VOOR WAT ECHT TELT', 'Forum voor Democratie');
